@@ -1,0 +1,59 @@
+div.a{
+  text-align: center;
+
+
+}
+
+div.b{
+  text-align: left;
+  color:#6abea3;
+}
+
+body{
+    background-image: url('france2.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+  position: absolute;
+  left: 50%;
+  top: 51%;
+
+
+  transform : translateX(-50%) translateY(-50%)
+
+
+
+
+}
+
+h2{
+   position: absolute;
+  right: 50%;
+  top: 40%;
+  color: #ff0000;
+  font-size: 60px;
+  font-family: 'Space Mono', monospace;
+}
+h1{
+  font-family: 'Space Mono', monospace;
+  font-size:90px
+
+}
+.logo{
+  text-indent: -999999px;
+}
+div.c{
+  text-align:"left";
+  font-size:30px;
+  color:#102dd1;
+
+}
+mark{
+
+  background-color: yellow;
+  color: #cc13dd;
+  font-family: 'Shadows Into Light Two', cursive;
+  text-align:"right";
+}
